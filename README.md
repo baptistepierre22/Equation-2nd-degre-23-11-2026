@@ -1,0 +1,1 @@
+# Equation-2nd-degre-23-11-2026
