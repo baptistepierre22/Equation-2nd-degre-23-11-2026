@@ -1,0 +1,17 @@
+Debut
+    Saisie de a, b, c
+    Calculer d = b² - 4ac
+
+    si d > 0
+        x1 = (-b - √d) / (2a)
+        x2 = (-b + √d) / (2a)
+        solutions = "Deux solutions : x1 et x2 
+    sinon, si d < 0
+        solutions = "Aucune solution réelle"
+    sinon (d = 0)
+        x0 = -b / (2a)
+        solutions = "Une solution simple" : x0 
+    FinSi
+
+    Afficher les solutions
+Fin
